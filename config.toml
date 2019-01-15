@@ -1,5 +1,5 @@
-baseURL = "http://www.sboardman.co.uk"
-languageCode = "en-us"
+baseURL = "https://s-boardman.github.io/"
+languageCode = "en-gb"
 title = "Simon Boardman"
 theme = "hermit"
 # enableGitInfo = true
